@@ -20,4 +20,6 @@ __________________________________
 CNN codes and graph:
 ![image](https://github.com/PothanSai2004/Car_Price_Prediction/assets/136136088/5c2756fd-92ba-4574-a761-cd72aa0b35ff)
 ![image](https://github.com/PothanSai2004/Car_Price_Prediction/assets/136136088/0c62c410-42b0-468c-854c-9560414af91b)
+
+
 CNN model failed to produce the accurate price for the car model since the dataset sis too small and the doesnt fit for deep learning
