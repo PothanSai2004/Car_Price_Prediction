@@ -5,7 +5,6 @@ ________________________________
 Webpage invoked with linear regression model:
 ![image](https://github.com/PothanSai2004/Car_Price_Prediction/assets/136136088/9278486b-31f3-4541-b0a2-fd2a4ee73163)
 ![image](https://github.com/PothanSai2004/Car_Price_Prediction/assets/136136088/010bb089-394d-4d6a-9681-09f3fae57605)
-![image](https://github.com/PothanSai2004/Car_Price_Prediction/assets/136136088/a57f21d6-25d2-4f47-a1b9-98c4ee635261)
 
 _________________________________
 Random forests codes and output graphs:
